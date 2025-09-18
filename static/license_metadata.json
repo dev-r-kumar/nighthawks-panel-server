@@ -1,0 +1,24 @@
+[
+    {
+        "license_key": "NIGHTHAWKS-7QMnjn-znm4Np-n9cyDS-G3jc6M-FGFYQV-yG1PqX",
+        "note": "sample licnese key over web",
+        "used": true,
+        "expiry_date": "2025-09-24 15:29:30",
+        "level": 1,
+        "duration": 1,
+        "username": "1",
+        "password": "1",
+        "hwind": null
+    },
+    {
+        "license_key": "NIGHTHAWKS-wdpxf1-3w1rmm-FEsPrt-UVA8bx-ew9uOZ-mMikma",
+        "note": "emulator bypass",
+        "used": true,
+        "expiry_date": "2025-09-21 12:38:04",
+        "level": 0,
+        "duration": 1,
+        "username": "developer",
+        "password": "1",
+        "hwind": null
+    }
+]
